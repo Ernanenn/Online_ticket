@@ -1,6 +1,6 @@
-Online Ticket
+#Online Ticket
 
-##Description: 
+## Description: 
 <p>This project simulates a simple ticket purchasing system for events.
 The user can choose the type of ticket (floor, upper or lower seat) and the desired quantity. 
 The system checks the availability of tickets and updates the available quantity in real time.</p>
