@@ -1,5 +1,7 @@
 # Online Ticket
 
+Developed during studies at Alura.
+
 ## Description: 
 <p>This project simulates a simple ticket purchasing system for events.
 The user can choose the type of ticket (floor, upper or lower seat) and the desired quantity. 
