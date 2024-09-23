@@ -1,7 +1,9 @@
 Online Ticket
 
 ##Description:
-This project simulates a simple ticket purchasing system for events. The user can choose the type of ticket (floor, upper or lower seat) and the desired quantity. The system checks the availability of tickets and updates the available quantity in real time.
+This project simulates a simple ticket purchasing system for events.
+The user can choose the type of ticket (floor, upper or lower seat) and the desired quantity. 
+The system checks the availability of tickets and updates the available quantity in real time.
 
 ##Functionalities:
 Ticket type selection: The user can choose between floor, upper or lower seat.
