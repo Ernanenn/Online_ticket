@@ -1,4 +1,4 @@
-#Online Ticket
+# Online Ticket
 
 ## Description: 
 <p>This project simulates a simple ticket purchasing system for events.
