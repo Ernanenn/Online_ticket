@@ -1,22 +1,22 @@
 Online Ticket
 
-##Description:
-This project simulates a simple ticket purchasing system for events.
+##Description: 
+<p>This project simulates a simple ticket purchasing system for events.
 The user can choose the type of ticket (floor, upper or lower seat) and the desired quantity. 
-The system checks the availability of tickets and updates the available quantity in real time.
+The system checks the availability of tickets and updates the available quantity in real time.</p>
 
-##Functionalities:
+## Functionalities:
 Ticket type selection: The user can choose between floor, upper or lower seat.
 Quantity definition: The user enters the desired quantity of tickets.
 Availability check: The system checks whether the requested quantity is available for the chosen ticket type.
 Availability quantity update: The quantity of available tickets is updated in real time after each purchase.
 
-##Technologies used:
+## Technologies used:
 HTML: Page structure.
 CSS: Page styling.
 JavaScript: Application logic, DOM manipulation and availability check.
 
-##How to use:
+## How to use:
 Clone the repository: git clone https://[your_repository]
 Open the index.html file: Open the index.html file in your browser.
 Select the ticket type: Choose between floor, upper or lower seats.
